@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Ramya Mothukuri
 
-<!--
-**Mothukuri-Ramya/Mothukuri-Ramya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate programmer with expertise in web development, software engineering, and problem-solving. I thrive on transforming creative ideas into functional and user-friendly applications. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS, JavaScript ,React , Nodejs , MongoDB
+- Git ,Github
+- Java ,Python , C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+Explore my innovative projects at https://github.com/Mothukuri-Ramya 
+checkout my personal portfolio at https://mothukuri-ramya.github.io/
+
+## ❤️ Interests
+- Exploring new technologies
+
+## 🚀 Availability
+- Open to new opportunities and collaborations in software development and web design.
+
+📫 **How to Reach Me:** 
+- Feel free to connect with me via email at ramyamotukuri2003@gmail.com or through https://www.linkedin.com/in/ramya-mothukuri-b097b420b/. Let's collaborate and bring ideas to life! 💡
+
+Looking forward to connecting with fellow developers and tech enthusiasts!

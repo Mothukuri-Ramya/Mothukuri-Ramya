@@ -19,6 +19,10 @@ checkout my personal portfolio at https://mothukuri-ramya.github.io/
 - Open to new opportunities and collaborations in software development and web design.
 
 📫 **How to Reach Me:** 
-- Feel free to connect with me via email at ramyamotukuri2003@gmail.com or through https://www.linkedin.com/in/ramya-mothukuri-b097b420b/. Let's collaborate and bring ideas to life! 💡
+- Feel free to connect with me via email at ramyamotukuri2003@gmail.com or
+  
+  through LinkedIn https://www.linkedin.com/in/ramya-mothukuri-b097b420b/.
+  
+  Let's collaborate and bring ideas to life! 💡
 
 Looking forward to connecting with fellow developers and tech enthusiasts!

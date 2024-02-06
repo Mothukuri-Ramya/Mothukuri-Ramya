@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ramya Mothukuri
 
-A passionate programmer with expertise in web development, software engineering, and problem-solving. I thrive on transforming creative ideas into functional and user-friendly applications. 🚀
+A passionate programmer with expertise in MERN Stack development, software engineering, and problem-solving. I thrive on transforming creative ideas into functional and user-friendly applications. 
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript ,React , Nodejs , MongoDB

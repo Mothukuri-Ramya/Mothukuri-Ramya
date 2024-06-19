@@ -4,8 +4,8 @@ A passionate programmer with expertise in MERN Stack development, software engin
 
 ## 🔧 Skills
 - HTML, CSS, JavaScript ,React , Nodejs , MongoDB
-- Git ,Github
-- Java ,Python , C
+- Git ,Github , SQL 
+- Python , C
 
 ## 💼 Projects
 Explore my innovative projects at https://github.com/Mothukuri-Ramya 
